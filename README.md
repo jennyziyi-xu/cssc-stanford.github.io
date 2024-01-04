@@ -1,1 +1,1 @@
-# cssu-stanford
+# Computer Science at Stanford University (CSSU)
