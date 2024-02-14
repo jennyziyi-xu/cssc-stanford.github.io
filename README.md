@@ -1,1 +1,1 @@
-# Computer Science at Stanford University (CSSU)
+# Computer Science Student Council at Stanford University (CSSC)
